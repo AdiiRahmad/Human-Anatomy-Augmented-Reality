@@ -1,0 +1,1777 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.107 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12e4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.696816 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 1.338945 ms (FindLiveObjects: 0.167484 ms CreateObjectMapping: 0.042920 ms MarkObjects: 1.023570 ms  DeleteObjects: 0.050385 ms)
+
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.676 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1330 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 44.300896 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1348.
+Total: 4.240771 ms (FindLiveObjects: 0.562636 ms CreateObjectMapping: 0.246328 ms MarkObjects: 3.309107 ms  DeleteObjects: 0.065314 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 197.838272 ms
+
+Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 7.086146 ms (FindLiveObjects: 0.221135 ms CreateObjectMapping: 0.069979 ms MarkObjects: 0.991379 ms  DeleteObjects: 5.799919 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.360892 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 1.438316 ms (FindLiveObjects: 0.053651 ms CreateObjectMapping: 0.019127 ms MarkObjects: 1.309553 ms  DeleteObjects: 0.054117 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.106633 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 2.625639 ms (FindLiveObjects: 0.170750 ms CreateObjectMapping: 0.096572 ms MarkObjects: 2.277606 ms  DeleteObjects: 0.074645 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.961785 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 1.285760 ms (FindLiveObjects: 0.163752 ms CreateObjectMapping: 0.073711 ms MarkObjects: 1.022170 ms  DeleteObjects: 0.022393 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.008905 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 2.931217 ms (FindLiveObjects: 0.163286 ms CreateObjectMapping: 0.175882 ms MarkObjects: 2.499675 ms  DeleteObjects: 0.082109 ms)
+
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.493 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Tugas Akhir\Program\anatomy\anatomy_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2c3c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 53.723434 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1348.
+Total: 3.335700 ms (FindLiveObjects: 0.456267 ms CreateObjectMapping: 0.138093 ms MarkObjects: 2.655030 ms  DeleteObjects: 0.029391 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/.\libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library D:/Tugas Akhir/Program/anatomy/anatomy_Data/Mono/libD:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 183.940765 ms
+
+Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 14.891218 ms (FindLiveObjects: 0.148357 ms CreateObjectMapping: 0.078843 ms MarkObjects: 0.822961 ms  DeleteObjects: 13.836391 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.268276 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.550973 ms (FindLiveObjects: 0.056450 ms CreateObjectMapping: 0.016795 ms MarkObjects: 0.458133 ms  DeleteObjects: 0.017728 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.189655 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 1.584340 ms (FindLiveObjects: 0.102170 ms CreateObjectMapping: 0.083509 ms MarkObjects: 1.370669 ms  DeleteObjects: 0.024259 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.478215 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 2.058803 ms (FindLiveObjects: 0.115233 ms CreateObjectMapping: 0.073711 ms MarkObjects: 1.770020 ms  DeleteObjects: 0.095172 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.745760 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 1.668783 ms (FindLiveObjects: 0.136693 ms CreateObjectMapping: 0.054584 ms MarkObjects: 1.421988 ms  DeleteObjects: 0.046653 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.124138 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 1.575943 ms (FindLiveObjects: 0.112434 ms CreateObjectMapping: 0.031724 ms MarkObjects: 1.398661 ms  DeleteObjects: 0.028458 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.058336 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 2.659229 ms (FindLiveObjects: 0.134361 ms CreateObjectMapping: 0.090507 ms MarkObjects: 2.361115 ms  DeleteObjects: 0.068580 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.060203 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 2.016349 ms (FindLiveObjects: 0.052718 ms CreateObjectMapping: 0.037322 ms MarkObjects: 1.844199 ms  DeleteObjects: 0.080243 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.525111 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 2.118986 ms (FindLiveObjects: 0.219269 ms CreateObjectMapping: 0.126896 ms MarkObjects: 1.680912 ms  DeleteObjects: 0.084908 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.336166 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 2.198296 ms (FindLiveObjects: 0.263590 ms CreateObjectMapping: 0.058782 ms MarkObjects: 1.813874 ms  DeleteObjects: 0.053651 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.338499 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 1.653387 ms (FindLiveObjects: 0.186146 ms CreateObjectMapping: 0.067647 ms MarkObjects: 1.292292 ms  DeleteObjects: 0.098904 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.820872 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 4.282292 ms (FindLiveObjects: 0.562636 ms CreateObjectMapping: 0.274787 ms MarkObjects: 3.265253 ms  DeleteObjects: 0.173549 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 22.323065 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 7.117404 ms (FindLiveObjects: 0.676004 ms CreateObjectMapping: 0.531379 ms MarkObjects: 1.676714 ms  DeleteObjects: 4.226308 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 12.636938 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 463.
+Total: 1.359006 ms (FindLiveObjects: 0.111034 ms CreateObjectMapping: 0.046186 ms MarkObjects: 1.156998 ms  DeleteObjects: 0.039655 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 14.352374 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 463.
+Total: 2.419432 ms (FindLiveObjects: 0.142758 ms CreateObjectMapping: 0.047119 ms MarkObjects: 2.009817 ms  DeleteObjects: 0.215537 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 21.033106 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 2.567322 ms (FindLiveObjects: 0.141359 ms CreateObjectMapping: 0.040121 ms MarkObjects: 2.346653 ms  DeleteObjects: 0.035456 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 10.533348 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 2.191298 ms (FindLiveObjects: 0.184279 ms CreateObjectMapping: 0.029391 ms MarkObjects: 1.933306 ms  DeleteObjects: 0.041521 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 12.387811 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 3.882941 ms (FindLiveObjects: 0.154421 ms CreateObjectMapping: 0.113833 ms MarkObjects: 3.496187 ms  DeleteObjects: 0.113833 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 13.303144 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 2.926085 ms (FindLiveObjects: 0.322373 ms CreateObjectMapping: 0.136693 ms MarkObjects: 2.357383 ms  DeleteObjects: 0.102170 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 13.312476 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 3.751846 ms (FindLiveObjects: 0.204340 ms CreateObjectMapping: 0.069046 ms MarkObjects: 3.434604 ms  DeleteObjects: 0.035456 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 20.213877 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 3.357160 ms (FindLiveObjects: 0.191277 ms CreateObjectMapping: 0.124563 ms MarkObjects: 2.852373 ms  DeleteObjects: 0.185213 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 16.985945 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 3.871744 ms (FindLiveObjects: 0.128296 ms CreateObjectMapping: 0.083509 ms MarkObjects: 3.536775 ms  DeleteObjects: 0.118965 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 14.972395 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 1.388864 ms (FindLiveObjects: 0.098904 ms CreateObjectMapping: 0.034523 ms MarkObjects: 1.211115 ms  DeleteObjects: 0.040588 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 23.361097 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1378.
+Total: 4.094280 ms (FindLiveObjects: 0.650811 ms CreateObjectMapping: 0.383488 ms MarkObjects: 2.935416 ms  DeleteObjects: 0.118499 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 20.389759 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 176 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 8.522597 ms (FindLiveObjects: 0.188945 ms CreateObjectMapping: 0.083042 ms MarkObjects: 3.627748 ms  DeleteObjects: 4.618195 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bagian_jantung.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 16.703693 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 4.165659 ms (FindLiveObjects: 0.373225 ms CreateObjectMapping: 0.124563 ms MarkObjects: 2.966207 ms  DeleteObjects: 0.694198 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 30.909111 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 177 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 10.194646 ms (FindLiveObjects: 0.258924 ms CreateObjectMapping: 0.145091 ms MarkObjects: 4.137201 ms  DeleteObjects: 5.648296 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at paruparu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 16.455965 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 4.065821 ms (FindLiveObjects: 0.381622 ms CreateObjectMapping: 0.159553 ms MarkObjects: 3.477525 ms  DeleteObjects: 0.041987 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 29.814629 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 4.689574 ms (FindLiveObjects: 0.108701 ms CreateObjectMapping: 0.028458 ms MarkObjects: 2.154908 ms  DeleteObjects: 2.395639 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at paruparu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 25.877102 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 5.264341 ms (FindLiveObjects: 0.710527 ms CreateObjectMapping: 0.080243 ms MarkObjects: 4.339209 ms  DeleteObjects: 0.131095 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 29.845419 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 5.336653 ms (FindLiveObjects: 0.135294 ms CreateObjectMapping: 0.079310 ms MarkObjects: 2.389574 ms  DeleteObjects: 2.730142 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at paruparu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 13.586330 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 4.062089 ms (FindLiveObjects: 0.615355 ms CreateObjectMapping: 0.229066 ms MarkObjects: 3.142089 ms  DeleteObjects: 0.071845 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 23.590164 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 9.172009 ms (FindLiveObjects: 0.244462 ms CreateObjectMapping: 0.316774 ms MarkObjects: 3.604888 ms  DeleteObjects: 4.999351 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at paruparu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 11.639960 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 4.084949 ms (FindLiveObjects: 0.595294 ms CreateObjectMapping: 0.201541 ms MarkObjects: 2.153042 ms  DeleteObjects: 1.132738 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 26.819031 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 173 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 9.130021 ms (FindLiveObjects: 0.283184 ms CreateObjectMapping: 0.134361 ms MarkObjects: 4.621927 ms  DeleteObjects: 4.088215 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 14.879088 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 2.930750 ms (FindLiveObjects: 0.190811 ms CreateObjectMapping: 0.036389 ms MarkObjects: 2.562657 ms  DeleteObjects: 0.136227 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 16.290346 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 2.762799 ms (FindLiveObjects: 0.136693 ms CreateObjectMapping: 0.039655 ms MarkObjects: 2.283205 ms  DeleteObjects: 0.300912 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 27.946636 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 5.963205 ms (FindLiveObjects: 0.182413 ms CreateObjectMapping: 0.156288 ms MarkObjects: 5.400568 ms  DeleteObjects: 0.219736 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 26.193878 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 5.189696 ms (FindLiveObjects: 0.182413 ms CreateObjectMapping: 0.121764 ms MarkObjects: 4.779615 ms  DeleteObjects: 0.103103 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 14.833835 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 4.377465 ms (FindLiveObjects: 0.228133 ms CreateObjectMapping: 0.143225 ms MarkObjects: 3.834422 ms  DeleteObjects: 0.163752 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 11.048398 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 2.505740 ms (FindLiveObjects: 0.066714 ms CreateObjectMapping: 0.015862 ms MarkObjects: 2.315862 ms  DeleteObjects: 0.104503 ms)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 15.310163 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1378.
+Total: 4.709168 ms (FindLiveObjects: 0.422677 ms CreateObjectMapping: 0.040588 ms MarkObjects: 4.194584 ms  DeleteObjects: 0.047119 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 22.811525 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 175 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 5.826045 ms (FindLiveObjects: 0.265456 ms CreateObjectMapping: 0.240263 ms MarkObjects: 3.453732 ms  DeleteObjects: 1.855862 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 17.650286 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 417.
+Total: 6.397546 ms (FindLiveObjects: 0.166085 ms CreateObjectMapping: 0.144158 ms MarkObjects: 4.516957 ms  DeleteObjects: 1.565213 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+UnloadTime: 14.448480 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 3.202272 ms (FindLiveObjects: 0.150223 ms CreateObjectMapping: 0.051318 ms MarkObjects: 2.966207 ms  DeleteObjects: 0.029391 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at otak_cerebrum.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 22.100996 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1378.
+Total: 5.104787 ms (FindLiveObjects: 0.323772 ms CreateObjectMapping: 0.120365 ms MarkObjects: 4.539817 ms  DeleteObjects: 0.115699 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DllNotFoundException: D:/Tugas Akhir/Program/anatomy/anatomy_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 48.415707 ms
+
+Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 10.325741 ms (FindLiveObjects: 0.206673 ms CreateObjectMapping: 0.118032 ms MarkObjects: 4.670446 ms  DeleteObjects: 5.324990 ms)
+
